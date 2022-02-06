@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6931730-4d5e-448e-8a05-9baae5f7e0f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/src/main/resources/859804.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/src/main/resources/pilot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/editor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/fetching_ui.list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/gear.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/learn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/fetching_ui.list" beforeDir="false" afterPath="$PROJECT_DIR$/ui/fetching_ui.list" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644091450460</updated>
       <workItem from="1644091454164" duration="6899000" />
-      <workItem from="1644104577232" duration="9736000" />
+      <workItem from="1644104577232" duration="9843000" />
     </task>
     <servers />
   </component>
